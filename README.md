@@ -74,7 +74,7 @@ We love hearing from our users! If you have ideas for new features or improvemen
 ### 🐛 Bug Reports
 
 Found a bug? Help us fix it:
-1. Email support@rork.com with "Bug Report" in the subject
+1. Email alanhuerta49@yahoo.com with "Bug Report" in the subject
 2. Include:
    - Device model and iOS version
    - Steps to reproduce the issue
@@ -114,12 +114,6 @@ Found a bug? Help us fix it:
 - **Data Export**: Export all notes for backup purposes
 - **Account Deletion**: Contact support for account deletion requests
 
-### 📞 Emergency Support
-
-For urgent issues that prevent you from accessing important notes:
-- Email support@rork.com with "URGENT" in the subject line
-- Include your account information and describe the issue
-- We prioritize urgent requests and respond as quickly as possible
 
 ---
 
