@@ -4,7 +4,7 @@
 
 Welcome to AI PocketNote support! We're here to help you get the most out of your intelligent note-taking experience.
 
-### 📞 Contact Support
+###  Contact Support
 
 For technical issues, feature requests, or general questions:
 
