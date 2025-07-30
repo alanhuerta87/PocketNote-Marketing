@@ -67,7 +67,7 @@ Your privacy is important to us:
 ### 📋 Feature Requests
 
 We love hearing from our users! If you have ideas for new features or improvements:
-1. Email us at support@rork.com with "Feature Request" in the subject
+1. Email us at alanhuerta49@yahoo.com with "Feature Request" in the subject
 2. Describe your idea and how it would help your workflow
 3. We review all suggestions and prioritize based on user feedback
 
